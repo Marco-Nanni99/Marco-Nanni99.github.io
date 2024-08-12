@@ -8,8 +8,10 @@
 <img src="images/plot5.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### ANSYS Fluent Project
+[Evaluation of velocity magnitude uniformity for injector manifold](/project_2.md)
+<img src="images/manifold_pathlines1.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
