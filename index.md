@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### MATALB Project 
 
-[Project 1 Title](/project_1)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Optimization of Aspect Ratio for Rocket Engines Cooling Channels](/project_1.md)
+<img src="images/plot5.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
