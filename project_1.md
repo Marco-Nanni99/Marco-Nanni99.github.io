@@ -27,16 +27,19 @@ This study reveals a trade-off between enhancing cooling capabilities and managi
 
 ```javascript
 // Example of iterative method used in the study (bisection method for pressure drop)
-function findOptimalAR(minAR, maxAR) {
-  while (maxAR - minAR > tolerance) {
-    midpoint = (minAR + maxAR) / 2;
-    if (isPressureDropAcceptable(midpoint)) {
-      maxAR = midpoint;
+function get_CJ_inlet_pressure(minAR, maxAR) {
+  while (P_lower - P_upper)/P_upper > tolerance) {
+    P_mid = (P_lower + P_upper) / 2;
+    P_out_mid = cooling_function(P_mid);
+    err_mid = P_out - P_out_mid;
+    if (err_low * err_mid > 0) {
+      P_lower = P_mid;
+      err_lower = err_mid;
     } else {
-      minAR = midpoint;
+      P_upper = P_mid;
     }
   }
-  return midpoint;
+  return P_mid;
 }
 ```
 ### 4. Conclusion and Future Work
