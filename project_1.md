@@ -27,20 +27,22 @@ This study reveals a trade-off between enhancing cooling capabilities and managi
 
 ```javascript
 // Example of iterative method used in the study (bisection method for pressure drop)
-function get_CJ_inlet_pressure(minAR, maxAR) {
-  while (P_lower - P_upper)/P_upper > tolerance) {
+function [P_out] = get_CJ_inlet_pressure(minAR, maxAR)
+  while (P_lower - P_upper)/P_upper > tolerance)
     P_mid = (P_lower + P_upper) / 2;
     P_out_mid = cooling_function(P_mid);
     err_mid = P_out - P_out_mid;
-    if (err_low * err_mid > 0) {
+    if err_low * err_mid > 0
       P_lower = P_mid;
       err_lower = err_mid;
-    } else {
+    else  
       P_upper = P_mid;
-    }
-  }
-  return P_mid;
-}
+    end
+    if abs(err_mid) < tol
+      run = 0;
+    end
+  end
+end
 ```
 ### 4. Conclusion and Future Work
 The optimal AR for minimizing power loss while maintaining effective cooling is AR=10 for Design 1. Future work could explore additional variables or different cooling channel geometries to further optimize performance.
