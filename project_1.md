@@ -15,6 +15,8 @@ The primary objective of this study is to identify the optimal AR that minimizes
 
 ### 2. Results and Analysis
 
+<img src="images/plot2.jpg?raw=true"/>
+
 The results indicated that:
 
 - **Design 1:** Achieved minimum pressure drop at AR=8 and minimum power loss at AR=10.
