@@ -43,13 +43,13 @@ The study demonstrates that while mesh refinement improves wall y+, the velocity
 ### Images
 
 #### Velocity Pathlines
-![Velocity Pathlines](path/to/manifold_pathlines1.jpg)
+![Velocity Pathlines](images/manifold_pathlines1.jpg)
 
 #### Mesh Refinement at Injector Outlet Wall
-![Mesh Refinement](path/to/mesh1.jpg)
+![Mesh Refinement](images/mesh1.jpg)
 
 #### Residuals Convergence
-![Residuals](path/to/residuals1.png)
+![Residuals](images/residuals1.png)
 
 #### Wall y+ After Mesh Refinement
-![Wall y+](path/to/yplus1.jpg)
+![Wall y+](images/yplus1.jpg)
