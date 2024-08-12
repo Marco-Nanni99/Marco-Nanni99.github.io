@@ -14,7 +14,7 @@ The primary objective of this study is to identify the optimal AR that minimizes
 
 ### 2. Results and Analysis
 
-![Graphical Results](images/plot5.jpg){:width="800px" height="600px"}
+![Graphical Results](images/plot5.jpg){:width="800px" height="300px"}
 
 The results indicated that:
 
