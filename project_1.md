@@ -26,7 +26,8 @@ The results indicated that there is a minimum pump power required at AR=6
 
 ### 5. Discussion
 
-This study reveals a trade-off between enhancing cooling capabilities and managing pressure losses as AR increases. Using a mass flow rate of 3.7 kg/s instead of the initial choice of 4 kg/s, with an aspect ratio of 6, will save 6% on pump power required, while still meeting the requirements of wall cooling and channles outlet pressure.
+- This study reveals a trade-off between enhancing cooling capabilities and managing pressure losses as AR increases.
+- Using a mass flow rate of 3.7 kg/s instead of the initial choice of 4 kg/s, with an aspect ratio of 6, **will save 6% on pump power required**, while still meeting the requirements of wall cooling and channles outlet pressure.
 
 ```javascript
 // Example of iterative method used in the study (bisection method for pressure drop)
