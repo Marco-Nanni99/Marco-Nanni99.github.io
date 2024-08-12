@@ -1,12 +1,11 @@
 ## Optimization of Aspect Ratio for Cooling Channels in Rocket Engines
 
-**Project description:** This project focuses on finding the optimal aspect ratio (AR) for cooling channels in the RL10 engine, with the goal of minimizing power loss while maintaining effective cooling. The study involves a parametric analysis, where different aspect ratios are tested to observe their effects on pressure drop, mass flow rate, and power loss in the cooling system.
+**Project description:** This project focuses on finding the optimal aspect ratio (AR), and optimal mass flow rate for cooling channels in the RL10 engine, with the goal of minimizing power loss while maintaining effective cooling. The study involves a parametric analysis, where different aspect ratios, and flow rates are tested to observe their effects on pressure drop, and power loss in the cooling system.
 
 ### 1. Objective and Methodology
 
-The primary objective of this study is to identify the optimal AR that minimizes the power required by the pumps while ensuring the coolant remains subsonic and the wall temperature stays below 970K. Two designs were considered:
-- **Design 1:** Fixed channel height with the width as twice the rib thickness.
-- **Design 2:** Fixed rib thickness with a decreasing cross-sectional area as AR increases.
+The primary objective of this study is to identify the optimal AR that minimizes the power required by the pumps while ensuring the coolant remains subsonic and the wall temperature stays below 970K. The design consists in:
+- **Design:** Fixed channel height with the width as twice the rib thickness.
 
 ## Key Equations and Concepts
 - **Aspect Ratio (AR):** Ratio of channel height to width.
@@ -15,7 +14,7 @@ The primary objective of this study is to identify the optimal AR that minimizes
 
 ### 2. Results and Analysis
 
-![Graphical Results](images/plot2.jpg){:width="800px" height="600px"}
+![Graphical Results](images/plot5.jpg){:width="800px" height="600px"}
 
 The results indicated that:
 
