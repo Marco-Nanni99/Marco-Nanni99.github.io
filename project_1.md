@@ -37,3 +37,7 @@ function findOptimalAR(minAR, maxAR) {
   }
   return midpoint;
 }
+```
+### 4. Conclusion and Future Work
+The optimal AR for minimizing power loss while maintaining effective cooling is AR=10 for Design 1. Future work could explore additional variables or different cooling channel geometries to further optimize performance.
+
