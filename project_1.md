@@ -7,23 +7,26 @@
 The primary objective of this study is to identify the optimal AR that minimizes the power required by the pumps while ensuring the coolant remains subsonic and the wall temperature stays below 970K. The design consists in:
 - **Design:** Fixed channel height with the width as twice the rib thickness.
 
-## Key Equations and Concepts
+### 2. Key Equations and Concepts
 - **Aspect Ratio (AR):** Ratio of channel height to width.
 - **Heat Transfer Coefficient:** Derived using the Dittus-Boelter correlation for the Nusselt number.
 - **Wetted Perimeter & Hydraulic Diameter:** Influences pressure drop and heat transfer efficiency.
 
-### 2. Results and Analysis
+### 3. Requirements
+- Wall temperature below 1200K (maximum allowed for Copper-Nickel Alloy)
+- Cooling channels outlet pressure = 5.6 MPa
+- Coolant remains subsonic in the channels
+
+### 4. Results and Analysis
 
 ![Graphical Results](images/plot5.jpg){:width="800px" height="300px"}
 
-The results indicated that:
+The results indicated that there is a minimum pump power required at AR=6
 
-- **Design 1:** Achieved minimum pressure drop at AR=8 and minimum power loss at AR=10.
-- **Design 2:** Achieved a minimum power loss at AR=11, which was 30% lower than in Design 1.
 
-### 3. Discussion
+### 5. Discussion
 
-This study reveals a trade-off between enhancing cooling capabilities and managing pressure losses as AR increases. While higher ARs improve cooling efficiency, they also lead to higher pressure drops, making it essential to find a balance.
+This study reveals a trade-off between enhancing cooling capabilities and managing pressure losses as AR increases. Using a mass flow rate of 3.7 kg/s instead of the initial choice of 4 kg/s, with an aspect ratio of 6, will save 6% on pump power required, while still meeting the requirements of wall cooling and channles outlet pressure.
 
 ```javascript
 // Example of iterative method used in the study (bisection method for pressure drop)
@@ -44,7 +47,7 @@ function [P_out] = get_CJ_inlet_pressure(minAR, maxAR)
   end
 end
 ```
-### 4. Conclusion and Future Work
+### 6. Conclusion and Future Work
 The optimal AR for minimizing power loss while maintaining effective cooling is AR=10 for Design 1. Future work could explore additional variables or different cooling channel geometries to further optimize performance.
 
 [Project PDF](/pdf/portfolio_project1.pdf)
