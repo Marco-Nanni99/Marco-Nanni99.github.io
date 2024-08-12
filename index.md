@@ -5,7 +5,7 @@
 ### MATALB Project 
 
 [Optimization of Aspect Ratio for Rocket Engines Cooling Channels](/project_1.md)
-<img src="images/CJ.jpg?raw=true"/>
+<img src="images/plot5.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
