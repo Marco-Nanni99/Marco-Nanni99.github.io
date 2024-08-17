@@ -20,8 +20,8 @@ The primary objective of this study is to identify the optimal AR that minimizes
 ### 4. Results and Analysis
 #### Pump power, Pressure drop, and mass flow rate VS Aspect Ratio 
 ![Graphical Results](images/plot7.jpg) <!--{:width="800px" height="300px"}-->
-#### Maximum wall temperature for increasing aspect ratio and mass flow rate
-![Maximum wall temperature for increasing aspect ratio and mass flow rate](images/plotAR.jpg)
+#### Maximum wall temperature [K] for increasing aspect ratio and mass flow rate
+![Maximum wall temperature [K] for increasing aspect ratio and mass flow rate](images/plotAR.jpg)
 
 The results indicated that there is a minimum pump power required at AR=12
 
