@@ -14,7 +14,7 @@
 <img src="images/manifold_pathlines2.jpg?raw=true"/>
 
 ---
-### Resilience Assessment of the Thermal Management System of the Aerospike Rocket Engine System (ARES)
+### NPSS Project
 [Resilience Assessment of the Thermal Management System of the Aerospike Rocket Engine System (ARES)](/thesis.md)
 <img src="images/engineCycle1.png?raw=true"/>
 
