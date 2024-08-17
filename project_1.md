@@ -51,6 +51,6 @@ function [P_out] = get_CJ_inlet_pressure(minAR, maxAR)
 end
 ```
 ### 6. Conclusion and Future Work
-The optimal AR for minimizing power loss while maintaining effective cooling is AR=10 for Design 1. Future work could explore additional variables or different cooling channel geometries to further optimize performance.
+The optimal AR for minimizing power loss while maintaining effective cooling is AR=12. Future work could explore additional effects like temperature stratification, fin efficiency, or different cooling channel geometries to further optimize performance.
 
 [Project PDF](/pdf/Marco_Nanni_Presentation_Portfolio.pdf)
