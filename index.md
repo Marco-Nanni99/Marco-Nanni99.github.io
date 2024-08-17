@@ -11,7 +11,7 @@
 
 ### ANSYS Fluent Project
 [Velocity Magnitude Uniformity Evaluation for the PSP rocket Injector Manifold](/project_2.md)
-<img src="images/manifold_pathlines1.jpg?raw=true"/>
+<img src="images/manifold_pathlines2.jpg?raw=true"/>
 
 ---
 <!-- [Project 3 Title](http://example.com/)
