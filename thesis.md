@@ -6,7 +6,7 @@
 
 ### Images
 #### Engine cycle
-![Engine cycle](images/engineCycle1.png)
+![Engine cycle: this is just a drawn diagram, it is not the NPSS user interface](images/engineCycle1.png)
 #### Example of turbine transient response due to fuel mass flow rate ramp
 ![turbine response](images/Transient1.png)
 this result was achieved using NPSS and MATLAB
