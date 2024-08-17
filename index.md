@@ -19,12 +19,15 @@
 <img src="images/engineCycle1.png?raw=true"/>
 
 ---
+### Other Projects
+[Nonlinear FEA to analyze a bolted assembly](/pdf/Report.pdf)
 
+<!--
 ### Other projects
 
 - [Nonlinear FEA to analyze a bolted assembly](/pdf/Report.pdf)
 ---
-<!-- - [Project 2 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
