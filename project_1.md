@@ -19,7 +19,7 @@ The primary objective of this study is to identify the optimal AR that minimizes
 
 ### 4. Results and Analysis
 
-![Graphical Results](images/plot7.jpg){:width="800px" height="300px"}
+![Graphical Results](images/plot7.jpg) <!--{:width="800px" height="300px"}-->
 
 The results indicated that there is a minimum pump power required at AR=6
 
