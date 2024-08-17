@@ -19,7 +19,7 @@ The primary objective of this study is to identify the optimal AR that minimizes
 
 ### 4. Results and Analysis
 
-![Graphical Results](images/plot5.jpg){:width="800px" height="300px"}
+![Graphical Results](images/plot7.jpg){:width="800px" height="300px"}
 
 The results indicated that there is a minimum pump power required at AR=6
 
@@ -51,4 +51,4 @@ end
 ### 6. Conclusion and Future Work
 The optimal AR for minimizing power loss while maintaining effective cooling is AR=10 for Design 1. Future work could explore additional variables or different cooling channel geometries to further optimize performance.
 
-[Project PDF](/pdf/portfolio_project1.pdf)
+[Project PDF](/pdf/Marco_Nanni_Presentation_Portfolio.pdf)
