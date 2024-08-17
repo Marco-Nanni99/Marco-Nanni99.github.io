@@ -14,9 +14,9 @@
 <img src="images/manifold_pathlines2.jpg?raw=true"/>
 
 ---
-### ANSYS Fluent Project
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Resilience Assessment of the Thermal Management System of the Aerospike Rocket Engine System (ARES)
+[Resilience Assessment of the Thermal Management System of the Aerospike Rocket Engine System (ARES)](/thesis.md)
+<img src="images/engineCycle1.png?raw=true"/>
 
 ---
 <!--
