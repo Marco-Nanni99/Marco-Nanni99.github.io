@@ -13,17 +13,17 @@ The primary objective of this study is to identify the optimal AR that minimizes
 - **Wetted Perimeter & Hydraulic Diameter:** Influences pressure drop and heat transfer efficiency.
 
 ### 3. Requirements
-- Wall temperature below 1200K (maximum allowed for Copper-Nickel Alloy)
+- Wall temperature below 880K
 - Cooling channels outlet pressure = 5.6 MPa
 - Coolant remains subsonic in the channels
 
 ### 4. Results and Analysis
-
+#### Pump power, Pressure drop, and mass flow rate VS Aspect Ratio 
 ![Graphical Results](images/plot7.jpg) <!--{:width="800px" height="300px"}-->
 #### Maximum wall temperature for increasing aspect ratio and mass flow rate
 ![Maximum wall temperature for increasing aspect ratio and mass flow rate](images/plotAR.jpg)
 
-The results indicated that there is a minimum pump power required at AR=6
+The results indicated that there is a minimum pump power required at AR=12
 
 
 ### 5. Discussion
