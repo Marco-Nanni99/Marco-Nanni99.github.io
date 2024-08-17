@@ -23,8 +23,8 @@
 ### Other projects
 
 - [Nonlinear finite-element model to analyze a bolted assembly](/pdf/Report.pdf)
-<!-- 
-- [Project 2 Title](http://example.com/)
+---
+<!-- - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
