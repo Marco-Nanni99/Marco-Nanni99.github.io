@@ -1,5 +1,5 @@
 ## Optimization of Aspect Ratio for Cooling Channels in Rocket Engines
-
+[Project PDF](/pdf/Marco_Nanni_Presentation_Portfolio.pdf)
 **Project description:** This project focuses on finding the optimal aspect ratio (AR), and optimal mass flow rate for cooling channels in the RL10 engine, with the goal of minimizing power loss while maintaining effective cooling.
 
 ### 1. Objective and Methodology
@@ -22,6 +22,9 @@ The primary objective of this study is to identify the optimal AR that minimizes
 ![Graphical Results](images/plot7.jpg) <!--{:width="800px" height="300px"}-->
 #### Maximum wall temperature [K] for increasing aspect ratio and mass flow rate
 ![Maximum wall temperature [K] for increasing aspect ratio and mass flow rate](images/plotAR.jpg)
+#### Temperature distribution [K] in the engine
+![Temperature distribution](images/tempVSx.jpg)
+
 
 The results indicated that there is a minimum pump power required at AR=12
 
@@ -53,4 +56,4 @@ end
 ### 6. Conclusion and Future Work
 The optimal AR for minimizing power loss while maintaining effective cooling is AR=12. Future work could explore additional effects like temperature stratification, fin efficiency, or different cooling channel geometries to further optimize performance.
 
-[Project PDF](/pdf/Marco_Nanni_Presentation_Portfolio.pdf)
+
