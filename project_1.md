@@ -1,20 +1,20 @@
 ## Optimization of Aspect Ratio for Cooling Channels in Rocket Engines
 
-**Project description:** This project focuses on finding the optimal aspect ratio (AR), and optimal mass flow rate for cooling channels in the RL10 engine, with the goal of minimizing power loss while maintaining effective cooling. The study involves a parametric analysis, where different aspect ratios, and flow rates are tested to observe their effects on pressure drop, and power loss in the cooling system.
+**Project description:** This project focuses on finding the optimal aspect ratio (AR), and optimal mass flow rate for cooling channels in the RL10 engine, with the goal of minimizing power loss while maintaining effective cooling.
 
 ### 1. Objective and Methodology
 
-The primary objective of this study is to identify the optimal AR that minimizes the power required by the pumps while ensuring the coolant remains subsonic and the wall temperature stays below 970K. The design consists in:
-- **Design:** Fixed channel height with the width as twice the rib thickness.
+The primary objective of this study is to identify the optimal AR that minimizes the power required by the pumps while ensuring the coolant remains subsonic and the wall temperature stays below 880K. The design consists in:
+- **Design:** Fixed channel height, and rib thickness. Channel width twice as the rib thickness.
 
 ### 2. Key Equations and Concepts
 - **Aspect Ratio (AR):** Ratio of channel height to width.
-- **Heat Transfer Coefficient:** Derived using the Dittus-Boelter correlation for the Nusselt number.
-- **Wetted Perimeter & Hydraulic Diameter:** Influences pressure drop and heat transfer efficiency.
+- **Heat Transfer Coefficient:** Derived using the Dittus-Boelter and Bartz correlation.
+- **Wetted Perimeter & Hydraulic Diameter:** Studied their influence on pressure drop and heat transfer.
 
 ### 3. Requirements
 - Wall temperature below 880K
-- Cooling channels outlet pressure = 5.6 MPa
+- Cooling channels outlet pressure = 5.6 MPa (To maintain the hydrogen supercritical)
 - Coolant remains subsonic in the channels
 
 ### 4. Results and Analysis
