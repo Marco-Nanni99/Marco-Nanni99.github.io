@@ -17,7 +17,11 @@ The primary objective of this study is to identify the optimal AR that minimizes
 - Cooling channels outlet pressure = 5.6 MPa (To maintain the hydrogen supercritical)
 - Coolant remains subsonic in the channels
 
-### 4. Results and Analysis
+### 4. Methodology
+- The regenerative cooling function is run for each mass flow rate and aspect ratio for a given coolant inlet conditions of pressure and temperature.
+- The coolant outlet pressure is also returned, and if it's different from the desired outlet pressure (imposed by design), the inlet pressure is updated using the bisection method
+
+### 5. Results and Analysis
 #### Pump power, Pressure drop, and mass flow rate VS Aspect Ratio 
 ![Graphical Results](images/plot7.jpg) <!--{:width="800px" height="300px"}-->
 #### Maximum wall temperature [K] for increasing aspect ratio and mass flow rate
@@ -29,14 +33,14 @@ The primary objective of this study is to identify the optimal AR that minimizes
 The results indicated that there is a minimum pump power required at AR=12
 
 
-### 5. Discussion
+### 6. Discussion
 
 - This study reveals a trade-off between enhancing cooling capabilities and managing pressure losses as AR increases.
 - Using a mass flow rate of 2.6 kg/s instead of the initial choice of 2.7 kg/s, with an aspect ratio of 12, **will save 6% on pump power required**, while still meeting the requirements of wall cooling and channles outlet pressure.
 
 ```javascript
 // Example of iterative method used in the study (bisection method for pressure drop)
-function [P_out] = get_CJ_inlet_pressure(minAR, maxAR)
+function [P_in] = get_CJ_inlet_pressure(P_out)
   while (P_lower - P_upper)/P_upper > tolerance)
     P_mid = (P_lower + P_upper) / 2;
     P_out_mid = cooling_function(P_mid);
@@ -53,7 +57,7 @@ function [P_out] = get_CJ_inlet_pressure(minAR, maxAR)
   end
 end
 ```
-### 6. Conclusion and Future Work
+### 7. Conclusion and Future Work
 The optimal AR for minimizing power loss while maintaining effective cooling is AR=12. Future work could explore additional effects like temperature stratification, fin efficiency, or different cooling channel geometries to further optimize performance.
 
 
