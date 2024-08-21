@@ -8,6 +8,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   Skills: MATLAB/Simulink, C, C++, Python, NPSS, CAD, ANSYS Fluent, ANSYS Mechanical
   <br><br>
   <a href="https://www.linkedin.com/in/marco-nanni-663180252/">View My LinkedIn Profile</a> 
+  <a href="MarcoNanni_Resume.pdf">View My Resume</a> 
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
