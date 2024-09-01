@@ -23,6 +23,7 @@
 [Nonlinear FEA to analyze a bolted assembly](/pdf/Report.pdf)
  <br><br>
 [X-68 Velociraptor: A Theoretical Design of a Hydrogen Scramjet-Integrated Hypersonic Vehicle](/pdf/X68_Velociraptor.pdf)
+
 <!--
 ### Other projects
 
