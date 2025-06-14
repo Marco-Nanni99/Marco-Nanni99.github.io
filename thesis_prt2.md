@@ -14,4 +14,4 @@ Check out my full dissertation here: https://bit.ly/3ZfGtjE
 
 ### Images
 #### Engine cycle
-![Aerospike engine gas-generator cycle](images/engineCycle1.png)
+![Aerospike engine gas-generator cycle](images/Aerospike2.png.png)
