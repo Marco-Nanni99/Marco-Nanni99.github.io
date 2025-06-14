@@ -20,6 +20,8 @@
 
 ---
 ### Other Projects
+[International Conference on Environmental Systems (ICES) paper](/pdf/ICES_462.pdf)
+ <br><br>
 [Nonlinear FEA to analyze a bolted assembly](/pdf/Report.pdf)
  <br><br>
 [X-68 Velociraptor: A Theoretical Design of a Hydrogen Scramjet-Integrated Hypersonic Vehicle](/pdf/X68_Velociraptor.pdf)
