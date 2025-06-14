@@ -24,6 +24,7 @@
 
 ---
 ### Other Projects
+[Resume](/pdf/Marco_Nanni_Resume.pdf)
 [International Conference on Environmental Systems (ICES) paper](/pdf/ICES_462.pdf)
  <br><br>
 [Nonlinear FEA to analyze a bolted assembly](/pdf/Report.pdf)
