@@ -1,5 +1,9 @@
 ## Portfolio
 
+### Thermal and Fluids Project 
+[A Resilience-Oriented Framework to Assess the Performance and Reusability of Aerospike Rocket Engine Thermal Management Systems](/thesis_prt2.md)
+<img src="images/plot7.jpg?raw=true"/>
+
 ---
 
 ### MATALB Project 
