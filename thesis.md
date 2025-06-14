@@ -1,8 +1,11 @@
-## Resilience Assessment of the Thermal Management System of the Aerospike Rocket Engine System (ARES)
+## Aerospike Rocket Engine System (ARES) modeling on NPSS
 
-- This is pert of the thesis research project I'm working on at Herrick Lab, under the supervision of Dr. Ziviani.
-- Right now I'm working on the model of the engine using Numerical Propulsion System Simulation (NPSS) software by NASA and managed by SwRI.
-- The objective is to assess the resilience of the thermal management system, which may be compromised due to potential damage or failure of engine components, or other parts operating outside nominal conditions, caused by errors or mission-specific requirements (e.g., maneuvers, orbital rendezvous, etc.).
+- At Herrick Labs, under the guidance of Dr. Ziviani, I’ve been developing a full-system model of an Aerospike rocket engine using NASA’s Numerical Propulsion System Simulation (NPSS).
+- This work is part of my thesis, focused on one core question:
+How resilient is a rocket engine’s thermal management system when things go wrong?
+
+That includes off-nominal operations, mission-induced stress (like orbital maneuvers or throttling), or even internal failures. To answer it, I modeled the pumps, turbine, valves, regenerative cooling channels, and combustion chamber within NPSS—capturing both steady-state and transient behavior under potential damage conditions.
+- Steady-state and transient results were obtained, like the ones below. Limited information can be provided for this study.
 
 ### Images
 #### Engine cycle
