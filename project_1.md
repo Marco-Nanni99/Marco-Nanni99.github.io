@@ -1,5 +1,6 @@
 ## Optimization of Aspect Ratio for Cooling Channels in Rocket Engines
-[Project PDF](/pdf/Marco_Nanni_Presentation_Portfolio.pdf)
+[Click here for full Project PDF](/pdf/Marco_Nanni_Presentation_Portfolio.pdf)
+ <br><br>
 **Project description:** This project focuses on finding the optimal aspect ratio (AR), and optimal mass flow rate for cooling channels in the RL10 engine, with the goal of minimizing power loss while maintaining effective cooling.
 
 ### 1. Objective and Methodology
